@@ -1,33 +1,33 @@
 body {
-  background-color: cadetblue;
+    background-color: cadetblue;
   }
   
   .top {
-  text-align: center;
-  background-color: coral;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  padding-right: 30px;
+    text-align: center;
+    background-color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-right: 30px;
   }
   
   img{
-     float: left;
-     width: 800px;  
-     height: auto;  
-     text-align: center;  
-     padding: 15px;  
-     border: solid black;  
+    float: left;
+    width: 800px;  
+    height: auto;  
+    text-align: center;  
+    padding: 15px;  
+    border: solid black;  
   }
   
   .prj {
-        width: 55%;
-        float: right;
-        background-color: goldenrod;
-        border: solid black;
+    width: 55%;
+    float: right;
+    background-color: goldenrod;
+    border: solid black;
   }
 
   .center{
     text-align: center;
-  background-color: orange;
+    background-color: orange;
   }
   
   .column {
